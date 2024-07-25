@@ -1,0 +1,37 @@
+ITEM	
+INGREDIENTS QUANTITY UNITS
+1. Veg Burger
+Bun, 1, Slices
+Tomato, 2, Slices
+Onion, 2, Slices
+Lettuce, 1, Ounces
+Cheese, 2, Slices
+Ketchup, 1, Packets
+Mayonnaise, 1, Packets
+Salt, 1, Packets
+Pepper, 1, Packets
+///
+2. Chicken Pizza
+Wheat_dough, 8, Ounces
+Chicken, 7, Ounces
+Ketchup, 1, Packets
+Bell_peppers, 2, Slices
+Onion, 2, Slices
+Tomato, 2, Slices
+Olives, 1, Ounces
+Salt, 1, Packets
+Pepper, 1, Packets
+Cheese, 3, Slices
+///	
+3. Espresso
+Coffee_powder, 1, Packets
+Milk, 5, Ounces
+Sugar, 1, Packets
+Cream, 1, Packets
+///
+4. Hot Cocoa
+Cocoa_powder, 1, Packets
+Milk, 5, Ounces
+Sugar, 1, Packets
+Cream, 1, Packets
+///

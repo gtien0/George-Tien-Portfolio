@@ -1,0 +1,19 @@
+INGREDIENTS,QUANTITY,UNITS
+Bun, 106, Slices	
+Wheat_dough, 7992, ounces	
+Onions, 1000, Slices
+Tomato, 988, Slices
+Lettuce, 1795, Ounce
+Ketchup, 994, Packets
+Mayonnaise, 1495, Packets
+Coffee_powder, 1500, Packets
+cocoa_powder, 1500, Packets
+Creamer, 1500, Packets
+Sugar, 1500, Packets
+Salt, 1494, Packets
+Pepper, 1494, Packets
+Cheese, 1987, Slices
+Olives, 1499, Ounce
+Bell_peppers, 998, Slices
+Milk, 2000, Ounce
+Chicken, 1493, Ounce
